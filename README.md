@@ -1,2 +1,2 @@
-# Pithon53_HomeWork
+# Python53_HomeWork
 Домашние задания
