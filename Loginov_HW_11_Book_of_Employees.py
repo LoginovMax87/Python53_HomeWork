@@ -115,7 +115,7 @@ while True:
         case "7":
             edit_employee()
         case "0":
-            print("Выход из программы...")
+            print("Выход из программы")
             break
         case _:
             print("Неверный ввод, попробуйте снова")
